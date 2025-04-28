@@ -21,6 +21,10 @@ AI agents are transforming automation, coding, research, and productivity. This 
 | **Camel AGI**| Research   | ✅           | A collaborative AI system where two agents, AI assistant and AI user, communicate to solve tasks together. | [GitHub](https://github.com/lightaime/camel-agi) |
 | **MetaGPT**  | Enterprise | ✅           | MetaGPT takes a one-line requirement as input and outputs a ready-to-use project, including requirement documents, design docs, and more. | [GitHub](https://github.com/geekan/MetaGPT) |
 
+## 📊 **New General Purpose AI Agents**
+| Name        | Type       | Open-Source | Description                                         | Repo/Website                                      |
+|-------------|------------|-------------|-----------------------------------------------------|---------------------------------------------------|
+| **PokeeAI** | General | X           | An Interactive, Personalized, and Efficient AI Agent Excels in Planning, Reasoning and Tool Usage. | [Website](https://pokee.ai) |
 
 ## 🌎 **Contribute**  
 Have an AI agent to add? Open a PR or issue!
